@@ -1,0 +1,46 @@
+<!--Created by: Ahmed Ali | 101383139
+Description: This function is used to sanarise inputs-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <script type="text/javascript" src="js/main.js"></script>
+    <title>Registration</title>
+</head>
+<body>
+    <header>
+        <ul>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="registration.html">Registration</a></li>
+            <li><a href="mlogin.html">Manager Login</a></li>
+        </ul>
+    </header>
+
+<h1>Registration</h1><br />
+
+<form>
+    <fieldset>
+    <legend>Registration</legend>
+    
+    <label>First Name:</label>
+    <input type="text" id="fname" name="fname"><br />
+    <label>Last Name:</label>
+    <input type="text" id="lname" name="lname"><br />
+    <label>Password:</label>
+    <input type="password" id="pwd" name="pwd">
+    <label>Re-type Password:</label>
+    <input type="password" id="db_pwd" name="db_pwd"><br />
+    <label>E-mail</label>
+    <input type="text" id="email" name="email"><br />
+    <label>Phone:</label>
+    <input type="text" id="phone" name="phone"><br />
+    <input type="button" value="Submit" onclick="registration()"><br />
+</fieldset>
+</form>
+
+<div id="message"></div>
+    
+</body>
+</html>

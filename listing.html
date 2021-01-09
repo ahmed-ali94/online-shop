@@ -1,0 +1,43 @@
+<!--Created by: Ahmed Ali | 101383139
+Description: This page displays the listing  page-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <script type="text/javascript" src="js/main.js"></script>
+    <title>Listing</title>
+</head>
+<body>
+    <header>
+        <ul>
+            <li id="link1"><a href='listing.html'>Listing</a></li>
+            <li id="link2"><a href='processing.html'>Processing</a></li>
+            <li id="link3"><a href='logout.html'>Log Out</a></li>
+        </ul>
+    </header>
+
+<h1>List Items</h1><br />
+
+<form>
+    <fieldset>
+    <legend>List Item</legend>
+    
+    <label>Item Name:</label>
+    <input type="text" id="item_name" name="item_name"><br />
+    <label>Item Price:</label>
+    <input type="text" id="item_price" name="item_price"><br />
+    <label>QTY:</label>
+    <input type="text" id="qty" name="qty"><br />
+    <label>Item Description:</label>
+    <textarea id="item_desc" name="item_desc"></textarea><br />
+    <input type="button" value="List Item" onclick="listItem()">
+    <input type="reset" value="Reset">
+</fieldset>
+</form>
+
+<div id="message"></div>
+    
+</body>
+</html>

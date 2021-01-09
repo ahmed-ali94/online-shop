@@ -1,0 +1,59 @@
+<!--Created by: Ahmed Ali | 101383139
+Description: This page displays the goods xml-->
+<?xml version="1.0"?>
+<items>
+  <item>
+    <number>54</number>
+    <name>Sony 4k TV</name>
+    <price>1000</price>
+    <qty>35</qty>
+    <onhold>0</onhold>
+    <sold>0</sold>
+    <description>Sony 4k tv. HDR Ready. Brilliant colors.</description>
+  </item>
+  <item>
+    <number>87</number>
+    <name>Bluetooth Earbuds</name>
+    <price>38.50</price>
+    <qty>20</qty>
+    <onhold>0</onhold>
+    <sold>0</sold>
+    <description>Bluetooth Earbuds Wireless Earphones with Noise Cancelling Mic</description>
+  </item>
+  <item>
+    <number>14</number>
+    <name>Electric Radiant Patio Heater</name>
+    <price>59.90</price>
+    <qty>10</qty>
+    <onhold>0</onhold>
+    <sold>0</sold>
+    <description>Patio Heater Strip Infrared Indoor Outdoor Remote</description>
+  </item>
+  <item>
+    <number>89</number>
+    <name>Aroma Humidifier</name>
+    <price>26.69</price>
+    <qty>20</qty>
+    <onhold>0</onhold>
+    <sold>0</sold>
+    <description> Humidifier LED Air Essential Oil Purifier Aromatherapy Diffuser</description>
+  </item>
+  <item>
+    <number>2</number>
+    <name>Bike Helmet</name>
+    <price>79.99</price>
+    <qty>31</qty>
+    <onhold>0</onhold>
+    <sold>0</sold>
+    <description>oday Fox bring you new levels of performance with the release of a completely redesigned 2018 Flux Helmet</description>
+  </item>
+  <item>
+    <number>13</number>
+    <name>Electric Treadmill</name>
+    <price>1299.90</price>
+    <qty>10</qty>
+    <onhold>0</onhold>
+    <sold>0</sold>
+    <description>Electric Treadmill Auto Incline Home Gym Exercise Run Machine Fitness</description>
+  </item>
+</items>

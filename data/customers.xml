@@ -1,0 +1,53 @@
+<!--Created by: Ahmed Ali | 101383139
+Description: This page displays the customer xml -->
+<?xml version="1.0"?>
+<customers>
+  <customer>
+    <id>5eb1109730068</id>
+    <firstname>a</firstname>
+    <lastname>ali</lastname>
+    <password>a</password>
+    <email>hitman4564@gmail.com</email>
+    <phone/>
+  </customer>
+  <customer>
+    <id>5eb111e112f9c</id>
+    <firstname>bob</firstname>
+    <lastname>bill</lastname>
+    <password>abcd</password>
+    <email>bob@gmail.com</email>
+    <phone/>
+  </customer>
+  <customer>
+    <id>5eb1125e64d58</id>
+    <firstname>sam</firstname>
+    <lastname>jack</lastname>
+    <password>abcd</password>
+    <email>sam@gmail.com</email>
+    <phone/>
+  </customer>
+  <customer>
+    <id>5eb1129d29a93</id>
+    <firstname>sam</firstname>
+    <lastname>jack</lastname>
+    <password>abcd</password>
+    <email>saam@gmail.com</email>
+    <phone/>
+  </customer>
+  <customer>
+    <id>5eb21bbf67669</id>
+    <firstname>ahmed</firstname>
+    <lastname>sd</lastname>
+    <password>a</password>
+    <email>as@gmail.com</email>
+    <phone/>
+  </customer>
+  <customer>
+    <id>5eb6db1984421</id>
+    <firstname>Ahmed</firstname>
+    <lastname>ali</lastname>
+    <password>abcd</password>
+    <email>hitman4564@outlook.com</email>
+    <phone></phone>
+  </customer>
+</customers>
